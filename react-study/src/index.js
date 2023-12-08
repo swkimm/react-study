@@ -1,14 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import CommentList from "./chapter_05/CommentList";
+import Accommodate from "./\bchapter_07/Accommodate";
 // import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <CommentList />
+    <Accommodate />
   </React.StrictMode>,
   document.getElementById("root")
 );
